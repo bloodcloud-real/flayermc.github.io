@@ -1,1 +1,1 @@
-# mc.flayermc.mine.bz
+# flayermc.github.io
